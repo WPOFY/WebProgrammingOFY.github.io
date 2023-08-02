@@ -2,7 +2,7 @@ function func(){
     var Name = document.getElementById("Name").value;
     if (Name == "Jessy Yolanda") {
         alert("Succesfull ! ")
-        window.location = "Yol 2.html";
+        window.location.assign("https://wpofy.github.io/webprogrammingOFY2.github.io/");
     }
     else {
         alert("Unidentified ! ")
